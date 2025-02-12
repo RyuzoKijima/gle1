@@ -148,7 +148,7 @@ results = model.predict(source=img_path, save=True, imgsz=640)
 今後の研究では、より多くのデータセットを用いた学習や、異なるモデルの比較を行い、さらなる性能向上を目指す。
 
 
-### **マウスのグルーミング検出実験（YOLO, Google Colab使用）**
+# **マウスのグルーミング検出実験（YOLO, Google Colab使用）**
 ---
 
 ## **1. 使用機材**
